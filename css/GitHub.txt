@@ -1,0 +1,1 @@
+Pull Request in GitHub or Merge Request in GitLab are the features made for more convenient code review. These features are equivalent as they both do the same git merge command to merge feature branches or forks with the existing code.
